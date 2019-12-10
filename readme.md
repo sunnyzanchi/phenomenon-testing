@@ -14,4 +14,4 @@ npm start
 
 but it doesn't work at the moment.
 
-Check out [this](github.com/zanchi/regl-test) to see what it's supposed to do
+Check out [this](https://github.com/zanchi/regl-test) to see what it's supposed to do
